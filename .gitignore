@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Added by SCSun @ 23/01/29
+# vim 
+*.*~
+*.swp
+
