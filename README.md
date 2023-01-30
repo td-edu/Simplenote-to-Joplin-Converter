@@ -27,7 +27,9 @@ This is why a little script was written.
 
 ## Installation
 
-The script itself could run without installation. 
+The script itself could run without installation. Just copy the script
+"SimplenoteConvert.py" to any directory and run it. See the section 
+"help option" below for actual command and options of running this script.
 
 
 ## Requirements and Dependencies
@@ -53,7 +55,9 @@ graph LR;
     B--.md-->D(Joplin Note <br> Import);
 ```
 
-Run SimplenoteConvert --help will get the following info.
+### help option
+
+Run SimplenoteConvert --help will return the following info.
 
 usage: SimplenoteConvert.py [-h] [-v] [-d] f_in f_out
 
@@ -76,3 +80,5 @@ optional arguments:
 
 
 [lib-1]:  https://pypi.org/project/pathvalidate/#installation  
+
+
