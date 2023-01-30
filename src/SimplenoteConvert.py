@@ -346,7 +346,7 @@ def main():
     print(f'End file conversion......')
 
 if __name__ == "__main__":
-    RUN_LIMITED = True         # for debugging - to limit the data size
+    RUN_LIMITED = False         # True for debugging - to limit the data size
     main()
 
 
